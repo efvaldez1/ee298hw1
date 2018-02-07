@@ -30,7 +30,7 @@ Tolerance is 0.1 and Initial Learning Rate is 0.0001 . The  input points are fro
 With 2 4 -1 as weights:
 
 
-![alt text](images/graph1(2 4 -1).png)
+![alt text](images/graph1.png)
 
 
 **Up close screenshot**
