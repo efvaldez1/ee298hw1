@@ -2,7 +2,7 @@
 HW 1 of EE 298z: "Deep Learning"
 
 #Description
-Implement Gradient Descent Operation for Linear Regression of Arbitrary Polynomial Function. Tolerance is 0.1 and  Learning Rate is 0.0001 initially. If your error rate was reduced since the last iteration, you can try increasing the learning rate by 5%. If your error rate was actually increased (meaning that you skipped the optimal point) decrease the learning rate by 50%
+Implement Gradient Descent Operation for Linear Regression of Arbitrary Polynomial Function. Tolerance is 0.1 and  Learning Rate is 0.0001 initially. If your error rate was reduced since the last iteration, you increase the learning rate by 5%. If your error rate was actually increased (meaning that you skipped the optimal point) decrease the learning rate by 50%
 
 
 **Given**
