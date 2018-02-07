@@ -28,7 +28,9 @@ Tolerance is 0.1 and Initial Learning Rate is 0.0001 . The  input points are fro
 **Given 2 4 -1**
 
 With 2 4 -1 as weights:
-❮img src="https://ibb.co/n7mg8x" ❯
+
+
+![alt text](images/graph1(2 4 -1).png)
 
 
 **Up close screenshot**
