@@ -18,7 +18,7 @@ If your error rate was actually increased (meaning that you skipped the optimal 
 
 
 # Screenshots/Examples
-Tolerance is 0.1 and Initial Learning Rate is 0.0001
+Tolerance is 0.1 and Initial Learning Rate is 0.0001 . The  input points are from (-10,10) with 0.1 interval.  graphs that are blue and solid are made by the input, given weights of user and adding Uniform Noise to the output. The graphs that are red and dashed/have broken lines are made by the input, weights given by Gradient Descent Operation.
 
 | Input Polynomial Weights     | Number of iterations           | Weights given after GDO  |  Learning Rate given after GDO  |
 | -----------------------------|:------------------------------:|------------------------:| --------------------------------:|
@@ -26,7 +26,10 @@ Tolerance is 0.1 and Initial Learning Rate is 0.0001
 | 10 -10 10 -10    | 1813395  | 9.999494 -10.00024242 10.03449782 -9.95054273 | 0.00000009929490366652 |
 
 **Given 2 4 -1**
-  https://ibb.co/n7mg8x
+
+With 2 4 -1 as weights:
+![alt text](https://ibb.co/n7mg8x "Graph 1")
+
 **Up close screenshot**
 
 
