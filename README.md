@@ -34,8 +34,10 @@ With 2 4 -1 as weights:
 
 
 **Up close screenshot**
-
+![alt text](images/graph1Closeup.png)
 
 **Given 10 -10 10 -10**
+![alt text](images/graph2.png)
 
 **Upclose screenshot**
+![alt text](images/graph2Closeup.png)
